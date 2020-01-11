@@ -4,7 +4,8 @@
 
 # See https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#macos-and-linux
 
-SCRIPTS_DIR=$PWD
+# https://stackoverflow.com/questions/4774054/reliable-way-for-a-bash-script-to-get-the-full-path-to-itself
+SCRIPTS_DIR="$( cd "$(dirname "$0")" ; pwd -P )"
 
 # set -x
 
