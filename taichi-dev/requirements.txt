@@ -1,0 +1,4 @@
+astpretty
+autograd
+opencv-python
+pygame

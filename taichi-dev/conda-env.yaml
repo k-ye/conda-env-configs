@@ -1,0 +1,17 @@
+name: taichi-dev
+dependencies:
+  - python=3.7
+  - setuptools
+  - astor
+  - pytest
+  - pybind11
+  - Pillow
+  - numpy
+  - scipy
+  - GitPython
+  - yapf
+  - colorama
+  - psutil
+  # - astpretty
+  # - autograd
+  # - opencv-python
