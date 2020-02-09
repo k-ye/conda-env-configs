@@ -12,6 +12,4 @@ dependencies:
   - yapf
   - colorama
   - psutil
-  # - astpretty
-  # - autograd
-  # - opencv-python
+  - pytorch
