@@ -1,7 +1,7 @@
 # How to update the env:
 #
 # conda activate taichi-dev
-# conda env update --file conda-env.yaml --prune 
+# conda env update --file conda-env.yaml --prune
 # https://stackoverflow.com/a/43873901/12003165
 
 name: taichi-dev
@@ -14,6 +14,7 @@ dependencies:
   - Pillow
   - numpy
   - scipy
+  - matplotlib
   - GitPython
   - yapf
   - colorama
@@ -21,3 +22,4 @@ dependencies:
   - pytorch
   - decorator
   - pytest-xdist
+  - yapf
