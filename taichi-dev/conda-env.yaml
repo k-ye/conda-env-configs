@@ -7,20 +7,21 @@
 name: taichi-dev
 dependencies:
   - python=3.8
-  - setuptools
-  - astor
-  - pytest
-  - pybind11
-  - Pillow
-  - numpy
-  - scipy
-  - matplotlib
   - GitPython
-  - yapf
+  - Pillow
+  - astor
   - colorama
-  - psutil
-  - pytorch
   - decorator
-  - pytest-xdist
-  - yapf
   - dill
+  - flask
+  - matplotlib
+  - numpy
+  - psutil
+  - pybind11
+  - pytest
+  - pytest
+  - pytorch
+  - scipy
+  - setuptools
+  - yapf
+  - yapf
