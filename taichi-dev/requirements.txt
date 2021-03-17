@@ -3,3 +3,4 @@ astpretty
 autograd
 opencv-python
 sphinx_rtd_theme
+stackprinter
