@@ -1,6 +1,7 @@
 # python3 -m pip install --upgrade -r requirements.txt
 astpretty
 autograd
+brython
 opencv-python
 sphinx_rtd_theme
 stackprinter
