@@ -19,6 +19,7 @@ dependencies:
   - psutil
   - pybind11
   - pytest
+  - pyyaml
   - pytorch
   - scipy
   - setuptools
